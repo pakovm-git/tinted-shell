@@ -3,7 +3,7 @@
   "description": "Tints GNOME Shell elements with the system accent color while preserving the original visual style.",
   "uuid": "tinted-shell@pakovm",
   "author": "PakoVM",
-  "version": 1,
+  "version": 2,
   "shell-version": [
     "48",
     "49"
