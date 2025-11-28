@@ -10,5 +10,7 @@ export default class TintedShellExtension extends Extension {
 
     disable() {
         // stylesheet.css is automatically unloaded by GNOME Shell
+        // This extension supports 'unlock-dialog' in metadata.json to keep styling
+        // consistent on the lock screen.
     }
 }
