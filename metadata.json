@@ -8,5 +8,9 @@
     "48",
     "49"
   ],
+  "session-modes": [
+    "user",
+    "unlock-dialog"
+  ],
   "url": "https://github.com/pakovm-git/tinted-shell"
 }
